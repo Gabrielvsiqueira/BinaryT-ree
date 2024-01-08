@@ -1,0 +1,1 @@
+projeto desenvolvido para calcular o engajamento no Instagram por meio do relatório de curtidas e observações de perfil. Análise de dados feita executando um script Python usando bibliotecas como pandas e mathlotlib.
